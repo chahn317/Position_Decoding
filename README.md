@@ -1,5 +1,4 @@
 # Position Decoding
-### Author: Christina Hahn
 
 Runs LSTM to decode tongue marker position from spiking activity in the brain. Raw data is not included.
 
